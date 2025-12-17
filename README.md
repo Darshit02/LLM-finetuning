@@ -40,7 +40,7 @@ pip install \
 1. **Clone this repo**
 
 ```bash
-git clone <your-repo-url>.git
+git clone https://github.com/Darshit02/LLM-finetuning.git
 cd "LLM finetuning"
 ```
 
