@@ -1,0 +1,16 @@
+# LLM Fine-tuning Dependencies
+
+# Deep Learning Framework
+torch>=2.0.0
+
+# Hugging Face Ecosystem
+transformers>=4.40.0
+datasets>=2.18.0
+peft>=0.10.0
+
+# Quantization Support
+bitsandbytes>=0.43.0
+
+# Required for accelerated training
+accelerate>=0.28.0
+
